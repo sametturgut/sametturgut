@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samet TURGUT</h1>
-<h3 align="center">A passionate frontend & mobile app developer</h3>
+<h3 align="center">Tech Lover</h3>
 
 - 📫 How to reach me **sametturgut356_@hotmail.com**
 
