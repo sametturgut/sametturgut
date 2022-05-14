@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samet TURGUT</h1>
 <h3 align="center">Tech Lover</h3>
 
-- 📫 How to reach me via mail **sametturgut356_@hotmail.com**
+- 📫 How to reach me via mail: **sametturgut356_@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
