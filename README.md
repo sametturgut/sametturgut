@@ -9,7 +9,7 @@
 <a href="https://stackoverflow.com/users/16393318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16393318" height="30" width="40" /></a>
 <a href="https://kaggle.com/sametturgut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sametturgut" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/samet turgut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samet turgut" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sametturgut356_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sametturgut356_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sametturgut356_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sametturgut356_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
